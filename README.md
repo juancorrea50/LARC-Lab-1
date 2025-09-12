@@ -1,1 +1,1 @@
-# Blank Game
+# Lab1 - Intro to the LARC Engine
